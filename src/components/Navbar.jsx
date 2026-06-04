@@ -179,7 +179,7 @@ export default function Navbar() {
                     <Youtube size={14} /> YouTube
                   </a>
                   <a
-                    href="mailto:anwesha.collab@thestylefile.in"
+                    href="mailto:anweshaghosh8dec2000@gmail.com"
                     className="flex items-center gap-2 px-4 py-2.5 rounded-full bg-gold text-forest text-sm font-medium"
                   >
                     <Mail size={14} /> Collab

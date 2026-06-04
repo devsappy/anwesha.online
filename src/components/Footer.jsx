@@ -38,7 +38,7 @@ export default function Footer() {
           <div className="flex items-center gap-3 sm:gap-4">
             <a href="https://instagram.com/thestylefile008" target="_blank" rel="noreferrer" className="hover:text-gold transition-colors">instagram</a>
             <a href="https://youtube.com/@thestylefile08" target="_blank" rel="noreferrer" className="hover:text-gold transition-colors">youtube</a>
-            <a href="mailto:anwesha.collab@thestylefile.in" className="hover:text-gold transition-colors">email</a>
+            <a href="mailto:anweshaghosh8dec2000@gmail.com" className="hover:text-gold transition-colors">email</a>
           </div>
         </div>
       </motion.div>

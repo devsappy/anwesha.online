@@ -51,7 +51,7 @@ export default function Contact() {
         <div className="mt-12 sm:mt-16 grid grid-cols-12 gap-6 sm:gap-8">
           <div className="col-span-12 lg:col-span-7">
             <motion.a
-              href="mailto:anwesha.collab@thestylefile.in"
+              href="mailto:anweshaghosh8dec2000@gmail.com"
               data-cursor="hover"
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -66,7 +66,7 @@ export default function Contact() {
                     brand enquiries & paid collabs
                   </div>
                   <div className="font-display text-2xl sm:text-3xl md:text-5xl italic leading-tight break-all">
-                    anwesha.collab<wbr />@thestylefile.in
+                    anweshaghosh8dec2000<wbr />@gmail.com
                   </div>
                   <div className="mt-4 sm:mt-6 flex items-center gap-2 text-xs sm:text-sm text-ivory/70">
                     <Mail size={14} />
