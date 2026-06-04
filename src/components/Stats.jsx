@@ -2,7 +2,7 @@ import { motion, useInView, useMotionValue, useTransform, animate } from 'framer
 import { useEffect, useRef } from 'react'
 
 const stats = [
-  { value: 31.7, suffix: 'K', label: 'Instagram Followers', sub: '@thestylefile008' },
+  { value: 35, suffix: 'K', label: 'Instagram Followers', sub: '@thestylefile008' },
   { value: 1447, suffix: '+', label: 'Posts & Reels', sub: 'since 2020' },
   { value: 6, suffix: '', label: 'Brand Collaborations', sub: 'and counting' },
   { value: 5, suffix: '+', label: 'Travel Destinations', sub: 'documented' },

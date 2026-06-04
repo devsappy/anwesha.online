@@ -91,7 +91,7 @@ export default function About() {
                     ['Handle', '@thestylefile008'],
                     ['Location', 'Kolkata, West Bengal'],
                     ['Niches', 'Beauty · Lifestyle · Travel'],
-                    ['Audience', '31.7K Instagram · YouTube'],
+                    ['Audience', '35K Instagram · YouTube'],
                     ['Primary age', '18–34 · 72% women'],
                     ['Languages', 'Bangla · English · Hindi'],
                   ].map(([k, v]) => (

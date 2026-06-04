@@ -5,7 +5,7 @@ const channels = [
   {
     label: 'Instagram',
     handle: '@thestylefile008',
-    meta: '31.7K followers',
+    meta: '35K followers',
     href: 'https://instagram.com/thestylefile008',
     icon: Instagram,
   },

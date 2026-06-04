@@ -88,7 +88,7 @@ export default function Hero() {
             >
               A Kolkata-based creator documenting skincare rituals, bridal makeovers, and
               the quiet poetry of everyday Bengali lifestyle &mdash; for a community of
-              <span className="text-forest font-medium not-italic"> 31.7k </span>
+              <span className="text-forest font-medium not-italic"> 35k </span>
               readers & watchers.
             </motion.p>
 
@@ -167,7 +167,7 @@ export default function Hero() {
                 className="absolute -top-4 sm:-top-6 -left-2 sm:-left-8 w-24 h-24 sm:w-28 sm:h-28 rounded-full bg-gold text-forest flex items-center justify-center text-center p-3 shadow-lg"
               >
                 <div>
-                  <div className="font-display italic text-base sm:text-lg leading-none">31.7k</div>
+                  <div className="font-display italic text-base sm:text-lg leading-none">35k</div>
                   <div className="text-[9px] tracking-[0.2em] uppercase font-mono mt-1">followers</div>
                 </div>
               </motion.div>
