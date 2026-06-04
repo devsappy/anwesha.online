@@ -135,6 +135,13 @@ export default function Hero() {
                 transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
                 className="relative aspect-[3/4] rounded-[20px] sm:rounded-[28px] overflow-hidden bg-gradient-to-br from-burgundy via-forest to-ink shadow-2xl shadow-forest/20 grain"
               >
+                <img
+                  src="/IMG_4909.jpg"
+                  alt="Anwesha Ghosh"
+                  className="absolute inset-0 w-full h-full object-cover"
+                  loading="eager"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-ink/80 via-ink/10 to-transparent" />
                 <div className="absolute inset-0 flex items-end p-5 sm:p-6">
                   <div className="w-full">
                     <div className="flex items-center gap-2 text-[10px] uppercase tracking-[0.3em] text-ivory/70 font-mono mb-3">
